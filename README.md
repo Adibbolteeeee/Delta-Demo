@@ -1,2 +1,2 @@
 # Delta-Demo
-This is a Repository for Git &amp; Github
+This is a Repository for Git &amp; Github.
